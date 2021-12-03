@@ -1,6 +1,6 @@
- * R5Edit
- * Changed By Average User#3903 on discord please let me know if there are issues! A tool to build maps out of props in the Apex Legends mod, R5Reloaded
-* Instuctions
+ R5Edit
+ Changed By Average User#3903 on discord please let me know if there are issues! A tool to build maps out of props in the Apex Legends mod, R5Reloaded
+ Instuctions
 1. Install R5R
 2. Download this program
 3. Get the prop spawner tool
