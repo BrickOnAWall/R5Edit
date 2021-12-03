@@ -1,6 +1,8 @@
 import argparse
-from Classes import PropData
-from Classes import Zipline
+import words
+from PropData import PropData
+
+DEBUG = False
 
 # Sets up argparse
 parser = argparse.ArgumentParser(description='Creates a map from prop data')
@@ -13,19 +15,15 @@ args = parser.parse_args()
 fIn = open(args.input, "r")
 fOutSqrrl = open(args.output, "w")
 
+debugData = ""
+# print to a debug file while i'm testing
+if DEBUG:
+    fOutDebug = open("../examples/dbg.txt", "w")
+
 allCommands = fIn.readlines()
 props = {}
 propsFormatted = ""
 
-HEADER = '''void function SpawnEditorProps()
-{
-    // Written by mostly fireproof. Let me know if there are any issues!
-    printl("---- NEW EDITOR DATA ----")
-'''
-
-FOOTER = '''
-}
-'''
 
 def printls(ls):
     """ Just prints each element of a list """
@@ -44,18 +42,16 @@ def handleInput():
     # error handling in case of failed load
     lastBootUp = 0
     for i in reversed(allCommands):
-        if i.find("NEW EDITOR DATA") > -1:
+        if (i.find("NEW EDITOR DATA") > -1):
             lastBootUp = allCommands.index(i)
             break
     print("LINE: " + str(lastBootUp))
 
-    current_zip = ""
-
     # process every command
-    for s in allCommands[lastBootUp:]:
+    for s in allCommands:
         i = s.find("[editor]")      # placing objects
         r = s.find("[delete]")      # deleting objects
-        z = s.find("[zipline]")         # placing ziplines
+        z = s.find("[zip]")         # placing ziplines
         p = s.find("[pickup]")      # placing pickups (grenades, weapons)
         if i > 0:
             # might need to make this more robust for spawn points
@@ -75,11 +71,8 @@ def handleInput():
 
         elif z > 0:
             try:
-                if s[z + 10] == "1":
-                    current_zip = s[z+12:]
-                else:
-                    zip = Zipline(current_zip, s[z+12:])
-                    props[zip.getHash()] = zip
+                pr = PropData(s[z+5:])
+                props[pr.getHash()] = pr
             except:
                 print("Invalid input: " + s)
 
@@ -88,22 +81,28 @@ def handleInput():
 def process():
     """ Processes the stuff """
     global propsFormatted
+    global debugData
 
-    propsFormatted += HEADER
+    propsFormatted += words.CREATEPROPFUNCTION
+    # propsFormatted += words.CREATEZIPLINEFUNCTION
+
+    propsFormatted += words.HEADER
     for p in props.values():
         decoded = p.decode()
-        if isinstance(p, Zipline):
-            propsFormatted += createZip(decoded)
-        else:
-            propsFormatted += createEditorProp(decoded)
+        propsFormatted += createEditorProp(decoded)
+        if DEBUG:
+            debugData += (decoded + "\n")
 
-    propsFormatted += FOOTER
+    propsFormatted += words.FOOTER
 
 
 def export():
-    """ Exports the props to a function that can be placed in an Apex Legends map """
+    """ Exports the props to a functional Apex Legends map
+        (not complete yet) """
     printdict(props)
     fOutSqrrl.write(propsFormatted)
+    if DEBUG:
+        fOutDebug.write(debugData)
 
     print("--------------\nSuccess!")
 
@@ -113,9 +112,9 @@ def createEditorProp(propInfo: str) -> str:
     return "    CreateEditorProp( " + propInfo + " )\n"
 
 
-def createZip(zipInfo: str) -> str:
-    """ Creates a zipline """
-    return "    CreateEditorZipline( " + zipInfo + " )\n"
+def createFRProp(propInfo: str) -> str:
+    """ Creates a firing range prop """
+    return "CreateFRProp( " + propInfo + " )\n"
 
 
 # This is where I actually run the functions
@@ -125,3 +124,6 @@ export()
 
 fIn.close()
 fOutSqrrl.close()
+if DEBUG:
+    fOutDebug.close()
+

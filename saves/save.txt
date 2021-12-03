@@ -1,0 +1,756 @@
+[DEBUG] THREAD ID: 11228
+
+[19.646] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;1344.33,4224.74,-4032.58;0,180,0
+
+[21.496] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;2495.56,5184.89,-4096.06;0,180,0
+
+[21.643] Script(C):ClientPakFile_Unload: gcard_frame_wraith_common_01.rpak
+
+[23.341] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;4864.87,5311.66,-3968.36;0,90,0
+
+[24.745] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;6592.54,5247.27,-3647.59;0,0,0
+
+[26.344] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;8192.83,5887.84,-3904.54;0,90,0
+
+[28.348] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;9472.5,6143.39,-4160.61;0,0,0
+
+[32.095] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;13312.1,7103.09,-4160.39;0,0,0
+
+[33.691] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;13696,6847.98,-2559;0,0,0
+
+[35.397] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;13440.3,5695.52,-2752.82;0,0,0
+
+[37.347] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;14271.9,5375.68,-4032.94;0,0,0
+
+[40.846] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;14399.1,4095.82,-4096.43;0,-90,0
+
+[43.753] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_06.rmdl;14207.5,3584.78,-2304.31;0,180,0
+
+[46.642] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;14335.5,3456.83,-2240.23;0,180,0
+
+[48.994] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;14399.5,3392.85,-2112.06;0,180,0
+
+[54.696] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;10240,3777,-2815.92;0,180,0
+
+[57.147] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;9215.98,2944.21,-3840.98;0,180,0
+
+[01.448] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;6591.81,3200.49,-4160.85;0,180,0
+
+[06.495] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;3392.13,-3456.79,-3072.6;0,0,0
+
+[14.344] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;4159.92,-3648.94,-3072.32;0,0,0
+
+[18.094] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;4608.41,-3328.89,-2944.19;0,0,0
+
+[22.894] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;9472.57,-2176.71,-3008.42;0,0,0
+
+[24.099] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;10495.6,-1920.84,-2944.33;0,0,0
+
+[24.596] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;10751.3,-2240.67,-3008.3;0,-90,0
+
+[25.150] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;11199.1,-2432.27,-2944.44;0,-90,0
+
+[25.596] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;11647.1,-2688.24,-2816.43;0,-90,0
+
+[26.098] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;11903.1,-3072.06,-2752.5;0,-90,0
+
+[26.499] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;11967.1,-3456.07,-2752.51;0,-90,0
+
+[26.889] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[26.942] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;11967.2,-3903.78,-2752.51;0,-90,0
+
+[27.448] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;12031.2,-4351.77,-2688.51;0,-90,0
+
+[29.342] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11519.1,-3008.31,-1471.89;0,-90,0
+
+[30.253] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;10879.6,-2816.91,-1472.16;0,0,0
+
+[31.000] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;9727.6,-2432.68,-1536.61;0,0,0
+
+[31.750] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;8960.01,-1920.73,-1408.68;0,0,0
+
+[35.548] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;8640.21,-2240.7,-2816.69;0,0,0
+
+[36.100] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;8128.45,-2496.64,-2816.63;0,0,0
+
+[38.297] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;8192.42,-2432.87,-1664.25;0,0,0
+
+[38.850] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;7872.4,-2688.85,-1600.35;0,0,0
+
+[41.294] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;8448.5,-2240.83,-1152.25;0,0,0
+
+[43.847] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;9535.57,-2240.9,-1024.04;0,0,0
+
+[44.447] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;10111.9,-2624.94,-1088.32;0,0,0
+
+[48.048] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11583.2,-3392.14,-896.529;0,-90,0
+
+[48.398] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11519.2,-3968.02,-960.557;0,-90,0
+
+[48.748] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11519.2,-4351.78,-1024.59;0,-90,0
+
+[50.799] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11136.4,-3263.1,-384.095;0,180,0
+
+[51.300] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;10752.4,-2943.08,-384.138;0,180,0
+
+[51.551] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;10432.4,-3071.1,-320.15;0,180,0
+
+[52.100] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;9984.55,-3135.23,-191.677;0,180,0
+
+[52.648] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;9536.57,-2879.27,-191.622;0,180,0
+
+[53.150] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;9024.55,-2751.25,-255.632;0,180,0
+
+[53.947] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;8447.72,-2623.22,-191.438;0,180,0
+
+[54.544] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;7936.23,-2559.04,-128.174;0,180,0
+
+[55.498] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;7615.88,-2751.75,-448.962;0,180,0
+
+[56.195] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;7232.04,-2943.48,-448.855;0,180,0
+
+[59.649] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11008.9,-3967.74,191.754;0,90,0
+
+[59.995] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11200.9,-4288.21,191.715;0,90,0
+
+[00.247] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11200.9,-4544.23,127.689;0,90,0
+
+[00.550] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11008.8,-4992.44,127.526;0,90,0
+
+[01.994] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;10176.3,-5184.84,383.54;0,0,0
+
+[12.800] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;14335.6,-5696.81,-2752.44;0,0,0
+
+[16.636] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[16.645] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;18624.4,-5632.88,-2624.23;0,0,0
+
+[30.594] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;19136.5,5119.78,-3968.83;0,90,0
+
+[32.948] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;18432.7,7488.07,-3904.74;0,90,0
+
+[33.593] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[35.091] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;18432.9,7104.24,-2944.41;0,90,0
+
+[36.151] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;18880.9,5760.25,-3008.42;0,90,0
+
+[36.749] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;18880.9,5760.25,-3008.42;0,90,0
+
+[37.250] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;18752.9,6272.21,-3008.41;0,90,0
+
+[40.298] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;19008.9,6656.03,-1600.51;0,90,0
+
+[41.194] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;19072.7,6208.13,-1600.68;0,90,0
+
+[44.241] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;19776,4864.54,-3776.84;0,180,0
+
+[44.698] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;20032,4928.52,-3968.85;0,180,0
+
+[45.046] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;20352.1,4864.52,-3968.85;0,180,0
+
+[45.252] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;20608.1,4864.52,-3968.85;0,180,0
+
+[45.595] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;21120.1,4800.51,-3968.86;0,180,0
+
+[45.951] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;21376.1,4736.47,-3968.88;0,180,0
+
+[46.248] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;21568.1,4736.43,-4032.9;0,180,0
+
+[46.595] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;22080.1,4608.41,-4032.91;0,180,0
+
+[46.901] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;22400.1,4544.4,-4032.91;0,180,0
+
+[47.292] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;22848.2,4352.36,-4032.91;0,180,0
+
+[47.894] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;23232.3,4160.34,-3968.9;0,180,0
+
+[48.990] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[50.149] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;24127.8,4480.15,-3392.97;0,-90,0
+
+[50.749] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;24191.6,4800.08,-3648.93;0,-90,0
+
+[51.149] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;24319.5,5311.95,-3648.88;0,-90,0
+
+[51.548] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;24255.5,5567.85,-3648.87;0,-90,0
+
+[51.949] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;24127.5,6143.96,-3648.86;0,-90,0
+
+[52.249] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;24127.5,6335.96,-3648.86;0,-90,0
+
+[52.850] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;24063.6,7103.73,-3648.87;0,-90,0
+
+[53.392] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;23871.6,7487.66,-3648.84;0,-90,0
+
+[53.798] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;23615.7,7743.55,-3648.82;0,0,0
+
+[54.244] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;23359.8,7999.45,-3648.82;0,0,0
+
+[54.692] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;22848,8191.43,-3648.82;0,0,0
+
+[55.051] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;22528,8191.43,-3648.82;0,0,0
+
+[55.445] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;21952,8255.43,-3648.82;0,0,0
+
+[55.799] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;21568.1,8255.44,-3648.82;0,0,0
+
+[56.150] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;21248.1,8191.44,-3648.82;0,0,0
+
+[56.497] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;20864.1,8127.44,-3648.82;0,0,0
+
+[56.801] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;20480.1,8063.45,-3648.82;0,0,0
+
+[57.147] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;20096.1,7999.45,-3648.82;0,0,0
+
+[57.446] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;19776.1,7871.45,-3648.82;0,0,0
+
+[57.798] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;19328.1,7743.45,-3648.82;0,0,0
+
+[58.196] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;19008.1,7679.45,-3648.82;0,0,0
+
+[01.895] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;18815.4,7359.37,-1984.54;0,0,0
+
+[03.949] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_06.rmdl;19839.9,7423.18,-1856.55;0,0,0
+
+[05.896] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;19839.9,7423.18,-1856.56;0,0,0
+
+[06.698] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;20480,7551.11,-1792.45;0,0,0
+
+[07.593] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;21439.7,7679.15,-1792.46;0,0,0
+
+[08.352] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;22143.5,7679.3,-1792.46;0,0,0
+
+[09.099] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;22783.3,7679.52,-1664.5;0,-90,0
+
+[09.949] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;23487.3,7423.66,-1536.63;0,-90,0
+
+[10.893] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;23871.3,6400.23,-1536.64;0,-90,0
+
+[11.646] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;23807.3,5632.28,-1536.64;0,-90,0
+
+[12.792] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;23359.7,4672.24,-1920.93;0,-90,0
+
+[13.792] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;22336.1,4672.84,-2048.53;0,180,0
+
+[14.492] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;21568.2,4864.9,-2048.4;0,180,0
+
+[15.291] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;20416.2,5056.91,-2048.35;0,180,0
+
+[15.795] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;19712.1,5120.94,-1984.35;0,180,0
+
+[16.449] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;19264.3,4992.96,-1919.89;0,180,0
+
+[19.799] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;19456.4,6208.88,-0.15348;0,180,0
+
+[20.599] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;20224.9,5760.21,-64.3943;0,90,0
+
+[21.450] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;20672.3,5440.96,128.027;0,180,0
+
+[22.148] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;21631.9,5376.99,127.854;0,180,0
+
+[22.792] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;22655.4,5440.78,127.874;0,180,0
+
+[23.641] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;23103,6208.2,64.0073;0,-90,0
+
+[24.292] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;22847.5,6911.16,64.038;0,0,0
+
+[24.998] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;21951.7,6847.05,63.98;0,0,0
+
+[25.599] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;20991.9,6911,64.0278;0,0,0
+
+[29.198] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;20480.2,6079.01,2175.99;0,0,0
+
+[30.098] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;21439.9,6271.52,2239.12;0,0,0
+
+[30.743] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;21951.9,6143.52,2111.13;0,0,0
+
+[34.244] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;21311.9,6207.6,4928.91;0,0,0
+
+[39.798] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;20352.4,6975.53,831.212;0,0,0
+
+[45.049] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;21567.3,6271.78,6144.67;0,-90,0
+
+[52.198] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;21056.8,6080.57,4415.75;0,90,0
+
+[59.844] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;23296.9,6847.98,-2495.58;0,90,0
+
+[00.545] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;23424.9,6143.95,-2431.6;0,90,0
+
+[01.798] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;23552.9,5439.77,-2431.7;0,90,0
+
+[04.343] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;23232.6,4735.27,-2752.24;0,0,0
+
+[05.551] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;23808.3,4863.47,-3584.8;0,0,0
+
+[06.843] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;23616.3,5183.86,-4352.95;0,90,0
+
+[09.551] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;23296.8,7040.56,-3775.81;0,90,0
+
+[10.549] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;22271.9,7744.81,-4032.58;0,180,0
+
+[11.095] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;21504.3,7936.96,-4096.03;0,180,0
+
+[11.497] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;21184,7937,-4096.1;0,180,0
+
+[12.498] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;20671.8,7680.98,-4096.03;0,180,0
+
+[17.493] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;20927.4,5887.94,-3071.2;0,-90,0
+
+[18.597] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;20863.6,7296.87,-2559.74;0,180,0
+
+[19.740] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;19583,6976.24,-2303.89;0,-90,0
+
+[23.148] Script(S):############################
+
+[23.148] Script(S):CodeCallback_ClientCommand() before
+
+[23.148] Script(S):player = entity (1: player IlIlIlIl_IIIl [1])
+
+[23.148] Script(S):args:
+
+[23.148] Script(S):0 : PlayerSwitchedWeapons
+
+[23.148] Script(S):1 : -1
+
+[23.148] Script(S):############################
+
+[23.545] Script(S):############################
+
+[23.545] Script(S):CodeCallback_ClientCommand() before
+
+[23.545] Script(S):player = entity (1: player IlIlIlIl_IIIl [1])
+
+[23.545] Script(S):args:
+
+[23.545] Script(S):0 : PlayerSwitchedWeapons
+
+[23.545] Script(S):1 : -1
+
+[23.545] Script(S):############################
+
+[28.190] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;26560.7,8640.69,-4352.25;0,180,0
+
+[30.646] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;26369,9343.76,-4416.08;0,90,0
+
+[33.845] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;24767,8896.17,-4415.96;0,-90,0
+
+[37.843] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_01.rmdl;25472.1,10816.8,-4608.59;0,180,0
+
+[40.142] Script(S):[editor]mdl/rocks/sulfur_geyser_brown_02.rmdl;25664.7,10688.5,-4480.42;0,90,0
+
+[42.051] Script(S):[editor]mdl/rocks/sulfur_geyser_brown_02.rmdl;25920.6,10176.8,-4544.34;0,180,0
+
+[46.240] Script(S):[editor]mdl/rocks/sulfur_geyser_yellow_02.rmdl;22847.9,10687,-4287.77;0,0,0
+
+[46.893] Script(S):[editor]mdl/rocks/sulfur_geyser_yellow_02.rmdl;22399.4,10687.2,-4287.94;0,0,0
+
+[47.298] Script(S):[editor]mdl/rocks/sulfur_geyser_yellow_02.rmdl;21951.3,10879.3,-4288.02;0,0,0
+
+[54.091] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;22655.3,9792.62,-3904.43;0,-90,0
+
+[55.047] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;21951.9,9344.96,-3840.29;0,180,0
+
+[55.797] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;21375.1,8768.31,-3776.31;0,-90,0
+
+[57.749] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;23104.8,8768.39,-3648.5;0,90,0
+
+[58.351] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;23232.8,8960.36,-3712.49;0,90,0
+
+[01.842] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;23040.4,10239.1,-3712.24;0,0,0
+
+[08.042] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;18495,12863.8,-3328.17;0,-90,0
+
+[11.248] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;22337,14655.9,-4032.15;0,90,0
+
+[12.683] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[13.549] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;20927.5,17792.8,-3904.1;0,180,0
+
+[16.446] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;24448.5,18303.3,-4096.5;0,0,0
+
+[18.550] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;23615.5,20672.8,-4288.23;0,180,0
+
+[19.946] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;22271.1,21824.5,-4032.07;0,-90,0
+
+[21.647] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;21823.3,23168.5,-4352.52;0,-90,0
+
+[23.992] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;19903.5,25344.7,-4800.52;0,180,0
+
+[27.648] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;18816.7,26624.7,-4032.29;0,90,0
+
+[30.192] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_06.rmdl;17536.6,27648.5,-4096.58;0,90,0
+
+[33.149] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;17409,27648,-4096.25;0,90,0
+
+[36.295] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;18815.9,29567.1,-4672.49;0,0,0
+
+[39.492] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;17088.6,28031.3,-4864.4;0,0,0
+
+[43.145] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;19456.6,27455.4,-4544.45;0,90,0
+
+[45.493] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;20288.8,28479.7,-4416.49;0,90,0
+
+[48.844] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;23168.3,27007.6,-3648.86;0,0,0
+
+[53.194] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;24960.2,24383,-4416.22;0,0,0
+
+[55.396] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;26368.2,21695.1,-4416.46;0,0,0
+
+[01.791] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;27327.7,23616.9,-4160.11;0,180,0
+
+[04.096] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;25215.7,24448.4,-2943.12;0,180,0
+
+[07.749] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;21567.7,27136.4,-4288.87;0,180,0
+
+[09.547] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;20031.3,26496.7,-3903.97;0,-90,0
+
+[12.594] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;20543,24831.9,-4544.29;0,-90,0
+
+[16.893] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_01.rmdl;21183.4,26560.5,-4736.54;0,-90,0
+
+[20.247] Script(S):[editor]mdl/rocks/sulfur_mound_brown_02.rmdl;22208.7,25728.6,-4608.4;0,90,0
+
+[21.246] Script(S):[editor]mdl/rocks/sulfur_mound_brown_02.rmdl;22656.9,24768.2,-4736.38;0,90,0
+
+[22.294] Script(S):[editor]mdl/rocks/sulfur_mound_brown_02.rmdl;22080,23807,-4672.27;0,0,0
+
+[23.392] Script(S):[editor]mdl/rocks/sulfur_mound_brown_02.rmdl;21631.3,24319.6,-4672.57;0,-90,0
+
+[24.047] Script(S):[editor]mdl/rocks/sulfur_mound_brown_02.rmdl;21247.2,24895.9,-4800.6;0,-90,0
+
+[29.298] Script(S):[editor]mdl/rocks/sulfur_mound_brown_03.rmdl;19839.5,26175.2,-4800.14;0,0,0
+
+[30.748] Script(S):[editor]mdl/rocks/sulfur_mound_brown_03.rmdl;19007.4,26495.2,-4864.12;0,0,0
+
+[31.751] Script(S):[editor]mdl/rocks/sulfur_mound_brown_03.rmdl;18303.1,26943.5,-4800;0,-90,0
+
+[33.541] Script(S):[editor]mdl/rocks/sulfur_mound_brown_03.rmdl;18047.1,27968.4,-4799.99;0,-90,0
+
+[35.299] Script(S):[editor]mdl/rocks/sulfur_mound_brown_03.rmdl;19008.5,28672.9,-4864.18;0,180,0
+
+[36.597] Script(S):[editor]mdl/rocks/sulfur_mound_brown_03.rmdl;19968.8,28416.6,-4863.96;0,90,0
+
+[37.346] Script(S):[editor]mdl/rocks/sulfur_mound_brown_03.rmdl;20353,27904,-4864.09;0,90,0
+
+[39.998] Script(S):[editor]mdl/rocks/sulfur_mound_brown_03.rmdl;19455.7,29377,-4864.06;0,180,0
+
+[42.092] Script(S):[editor]mdl/rocks/sulfur_mound_yellow_03.rmdl;19519.8,29249,-4799.85;0,180,0
+
+[44.546] Script(S):[editor]mdl/rocks/sulfur_mound_yellow_03.rmdl;17471,27328.1,-4800.07;0,-90,0
+
+[46.393] Script(S):[editor]mdl/rocks/sulfur_mound_yellow_03.rmdl;18239.3,26239.3,-4864.18;0,0,0
+
+[51.096] Script(S):[editor]mdl/rocks/sulfur_mound_brown_05.rmdl;19071.7,25471.1,-4800.17;0,0,0
+
+[57.591] Script(S):[editor]mdl/rocks/sulfur_mound_brown_05.rmdl;20863.6,27840.9,-4800.08;0,180,0
+
+[59.497] Script(S):[editor]mdl/rocks/sulfur_mound_brown_06.rmdl;20544.2,27520.9,-4864.36;0,180,0
+
+[01.049] Script(S):[editor]mdl/rocks/sulfur_mound_yellow_06.rmdl;20351.7,27392.8,-4864.56;0,180,0
+
+[02.744] Script(S):[editor]mdl/rocks/sulfur_mound_yellow_06.rmdl;19776.8,27904.6,-4864.04;0,90,0
+
+[04.094] Script(S):[editor]mdl/rocks/rock_lava_small_moss_desertlands_02.rmdl;19584.9,28288.4,-4863.97;0,90,0
+
+[05.094] Script(S):[editor]mdl/rocks/rock_lava_small_moss_desertlands_02.rmdl;19584.1,28737,-4864.1;0,180,0
+
+[07.945] Script(S):[editor]mdl/rocks/icelandic_moss_rock_01.rmdl;19584.5,29056.6,-4864.64;0,180,0
+
+[11.748] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_06.rmdl;19647.7,28672.7,-4864.64;0,180,0
+
+[14.198] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;18559.5,28287.2,-4864.4;0,0,0
+
+[14.649] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;18431.5,28351.2,-4864.37;0,0,0
+
+[15.246] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;17984.6,28479.3,-4864.32;0,0,0
+
+[15.796] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;18176.7,28799.4,-4864.34;0,90,0
+
+[16.598] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;17791.7,28863.2,-4864.51;0,0,0
+
+[17.195] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;17792.8,29119.6,-4864.44;0,90,0
+
+[17.745] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;17535.7,29247.2,-4864.58;0,0,0
+
+[18.096] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;17280.1,29311.2,-4864.54;0,0,0
+
+[18.392] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;17344.6,29375.4,-4864.54;0,90,0
+
+[18.694] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;17408.5,29631.4,-4864.58;0,0,0
+
+[18.944] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;17344,29631.2,-4864.62;0,0,0
+
+[19.201] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;16895.9,29951.1,-4800.5;0,0,0
+
+[19.447] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;16768.2,30015.1,-4800.46;0,0,0
+
+[19.645] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;16320.4,30079.2,-4736.4;0,0,0
+
+[19.898] Script(S):[editor]mdl/rocks/desertlands_sulfur_rock_cluster_03.rmdl;16192.5,30207.3,-4672.5;0,0,0
+
+[23.546] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;15808,33025,-4224.11;0,180,0
+
+[29.195] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;9919.04,30911.8,-3520.12;0,-90,0
+
+[32.144] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;9471.97,31168,-2239;0,180,0
+
+[33.437] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[35.342] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;5823.05,31168,-3456.32;0,-90,0
+
+[37.441] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;6335.19,31040,-2175.41;0,-90,0
+
+[42.393] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;8960.94,31231.7,-704.188;0,90,0
+
+[44.897] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;7039.29,31295.4,-576.321;0,-90,0
+
+[47.051] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;7871.8,31167.1,576.357;0,0,0
+
+[49.244] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;8383.89,31231,767.927;0,0,0
+
+[52.800] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;7999.95,31103.7,1663.04;0,0,0
+
+[55.842] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;7232.3,31295,1023.96;0,0,0
+
+[03.694] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;8831.3,31167.8,895.305;0,-90,0
+
+[08.249] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;6975.78,27519.2,-3968.61;0,0,0
+
+[14.244] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;6784.13,31232.9,-511.645;0,180,0
+
+[21.599] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;7936.08,31039.1,2879.53;0,0,0
+
+[27.848] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;7424.98,31039.8,3584.01;0,90,0
+
+[28.751] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;7232.98,31039.8,3584.02;0,90,0
+
+[31.397] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;7104.99,31039.9,3584.06;0,90,0
+
+[34.746] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;6976.98,31039.8,3584.08;0,90,0
+
+[36.244] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;6848.97,31039.8,3584.09;0,90,0
+
+[39.343] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;8319.07,31167.6,3584;0,-90,0
+
+[40.145] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;8383.07,31167.6,3648;0,-90,0
+
+[40.851] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;8447.07,31231.6,3584;0,-90,0
+
+[41.591] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;8575.07,31231.6,3584;0,-90,0
+
+[42.796] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_02.rmdl;8703.07,31295.6,3584;0,-90,0
+
+[47.751] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;7935.46,30975.9,3967.17;0,-90,0
+
+[56.351] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;7935.95,31295,-256.304;0,0,0
+
+[02.848] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;511.209,31295.7,-3456.54;0,-90,0
+
+[05.897] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;1087.31,34176.7,-3136.14;0,180,0
+
+[06.899] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-256.999,33728,-2943.95;0,-90,0
+
+[09.643] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-2367.61,31295.1,-2752.15;0,0,0
+
+[12.636] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[15.746] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-8640.52,30079.8,-3840.82;0,-90,0
+
+[18.494] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-8704.49,27520.1,-3712.87;0,-90,0
+
+[20.048] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;-7807.41,25983.4,-3392.53;0,0,0
+
+[21.141] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;-8320.13,25087,-3455.83;0,0,0
+
+[22.598] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;-10176.7,25280.6,-3840.34;0,-90,0
+
+[26.395] Script(S):[editor]mdl/rocks/sulfur_geyser_brown_02.rmdl;-11263.4,24000.6,-3776.55;0,180,0
+
+[33.198] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;-11392.3,24064.8,-3584.56;0,180,0
+
+[35.745] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;-13248.9,22271.8,-2303.58;0,-90,0
+
+[39.646] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;-9151.28,19647.3,-3392.14;0,90,0
+
+[42.796] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;-12032.6,20799.5,-3264.58;0,-90,0
+
+[47.447] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;-14592.7,24832.6,-3968.35;0,-90,0
+
+[50.749] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;-12032.3,25984.9,-3904.26;0,180,0
+
+[54.194] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;-9471.34,27712.1,-895.259;0,90,0
+
+[59.094] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;-10751.7,30848.6,-3968.75;0,180,0
+
+[01.796] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;-13824.9,30848,-4096.42;0,-90,0
+
+[06.391] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;-15872.7,28031.3,-4032.25;0,0,0
+
+[12.292] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-15936.1,25151.1,-4032.34;0,0,0
+
+[14.750] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-18752.9,26175.9,-3840.33;0,-90,0
+
+[16.792] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-19072.3,23359.1,-3520.18;0,0,0
+
+[18.952] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-17407.8,22911.2,-2303.38;0,0,0
+
+[20.297] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-15807.2,23295.9,-1535.42;0,90,0
+
+[26.550] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-13055.1,27199.6,639.935;0,90,0
+
+[31.450] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-12736.2,32576.8,-3072.61;0,180,0
+
+[36.043] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-13055.3,33663.7,-3968.64;0,90,0
+
+[40.192] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-12991.1,31168.1,-3968.44;0,90,0
+
+[43.791] Script(S):[delete]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-12736.2,32576.8,-3072.61;0,180,0
+
+[44.848] Script(S):[delete]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-13055.3,33663.7,-3968.64;0,90,0
+
+[48.696] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-12991.2,34175.9,-3840.54;0,90,0
+
+[52.291] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-12991.2,32704,-2752.54;0,90,0
+
+[53.197] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-12991.2,31872,-2752.54;0,90,0
+
+[54.593] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-13183.2,33216.1,-2752.6;0,90,0
+
+[57.499] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-14207.4,33983.9,-4096.81;0,90,0
+
+[00.345] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-14527.4,31487.8,-3904.77;0,90,0
+
+[03.192] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-14335.1,32511.7,-2751.73;0,90,0
+
+[14.047] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-16896.5,30399.2,-3264.34;0,0,0
+
+[17.049] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-20865,30527.8,-3648.17;0,-90,0
+
+[20.192] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-25792.8,29440.2,-2880.56;0,-90,0
+
+[22.397] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-26815.2,30592.2,-3200.57;0,90,0
+
+[25.048] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-29952.7,31424.7,-2944.2;0,180,0
+
+[26.650] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;-31360.8,29376.2,-2944.63;0,-90,0
+
+[28.947] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;-29119.1,27391.6,-2816.08;0,90,0
+
+[29.200] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;-28991.1,26943.6,-2880.1;0,90,0
+
+[31.047] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;-31680.9,25919.7,-2880.14;0,-90,0
+
+[39.493] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;-28927.4,22911.3,-2880.36;0,0,0
+
+[42.149] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;-29695.5,19711.2,-3072.31;0,0,0
+
+[44.291] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;-32384.9,18111.6,-2880.24;0,-90,0
+
+[46.682] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[46.798] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;-32256.9,15743.7,-2944.39;0,-90,0
+
+[50.601] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;-32513,12352,-2816.21;0,-90,0
+
+[53.444] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;-28863.2,13056.5,-2752.25;0,90,0
+
+[56.400] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;-28351.6,11264,-3264.93;0,90,0
+
+[58.197] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;-27711.3,9151.3,-3584.12;0,90,0
+
+[00.150] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;-26431.3,7807.26,-3647.9;0,0,0
+
+[02.041] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;-25087.5,6015.2,-3584.37;0,0,0
+
+[08.093] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;-29503.5,8960.64,-2880.55;0,180,0
+
+[11.796] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_06.rmdl;-32000.4,7872.88,-2304.31;0,180,0
+
+[19.099] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-26303.2,5695.77,-3008.49;0,90,0
+
+[21.990] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[25.844] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-24448.2,-3264.98,-3584.05;0,0,0
+
+[28.192] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-27136.8,-5184.66,-2752.02;0,-90,0
+
+[30.193] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-26751.9,-8192.92,-2752.38;0,0,0
+
+[37.533] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[39.241] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;-16639.3,-8640.12,-4480.7;0,90,0
+
+[44.894] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-11711.8,-5823.19,-4096.55;0,180,0
+
+[47.946] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-8639.84,-5247.32,-4160.72;0,180,0
+
+[48.148] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-8639.83,-5183.3,-4224.69;0,180,0
+
+[58.748] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-5887.1,-8704.03,-4480.44;0,90,0
+
+[01.542] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-2751.57,-9856.79,-4352.43;0,0,0
+
+[02.180] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[05.244] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;1536.96,-9920.2,-4160.22;0,90,0
+
+[07.941] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;-384.366,-13376.8,-4352.41;0,0,0
+
+[10.745] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;-2624.92,-16960.3,-4416.24;0,-90,0
+
+[13.493] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;-895.938,-18817,-4288.18;0,0,0
+
+[20.292] Script(S):[editor]mdl/rocks/sulfur_geyser_brown_02.rmdl;-7104.85,-20992.4,-3648.33;0,-90,0
+
+[22.349] Script(S):[editor]mdl/rocks/sulfur_geyser_yellow_02.rmdl;-6656.59,-22016.5,-3776.61;0,-90,0
+
+[33.244] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;-575.598,-24896.9,-3520.05;0,0,0
+
+[34.234] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[35.596] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;2752.95,-24448.3,-2944.05;0,90,0
+
+[38.845] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;7552.87,-24191.5,-3264.16;0,90,0
+
+[40.891] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_04.rmdl;9024.49,-21439.2,-3136.29;0,180,0
+
+[42.991] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;9856.34,-19007.1,-2944.15;0,180,0
+
+[44.697] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11584.3,-19391.3,-3072.58;0,180,0
+
+[45.744] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;12224.4,-19071.5,-3648.78;0,180,0
+
+[49.348] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;9280.76,-17407.4,-3648.23;0,90,0
+
+[54.747] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_03.rmdl;11583.2,-16320.3,-3520.51;0,-90,0
+
+[59.990] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;8768.25,-16448.9,-3584.18;0,0,0
+
+[05.148] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_04.rmdl;11392.2,-14337,-3648.06;0,0,0
+
+[09.996] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_03.rmdl;12288.4,-15551.2,-3648.55;0,180,0
+
+[14.081] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[15.042] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+
+[17.596] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;5696.03,9280.97,-1600.23;0,180,0
+
+[19.652] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;3391.26,9472.31,-3456.6;0,-90,0
+
+[21.241] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_02.rmdl;1279.23,8447.48,-3776.38;0,-90,0
+
+[24.296] Script(S):[editor]mdl/rocks/rock_lava_moss_desertlands_01.rmdl;3200.52,12224.7,-3840.53;0,180,0
+
+[26.298] Script(S):[editor]mdl/rocks/sulfur_geyser_yellow_01.rmdl;3136.52,12096.7,-3584.53;0,180,0
+
+[30.943] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;3391.96,12225,-3712.22;0,180,0
+
+[33.498] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;6208.35,12224,-2111.06;0,90,0
+
+[36.393] Script(S):[editor]mdl/rocks/rock_sharp_lava_moss_desertlands_05.rmdl;7680.78,15040.2,-2944.58;0,90,0
+
+[36.892] Script(C):StartPlayingMusic() - 'music_skyway_17_slonedies'
+

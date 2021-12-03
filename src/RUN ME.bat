@@ -7,5 +7,5 @@ echo                                     proceed once you have done that!
 pause
 cls
 echo.
-python main.py ../saves/save.txt ../saves/output.nut
+python main.py ../saves/save.txt ../saves/output.txt
 pause
